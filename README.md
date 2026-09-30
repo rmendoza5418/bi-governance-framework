@@ -1,5 +1,7 @@
 # Enterprise BI Governance Framework
 
+[![CI](https://github.com/rmendoza5418/bi-governance-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/rmendoza5418/bi-governance-framework/actions/workflows/ci.yml)
+
 A practical playbook for running a Tableau Center of Excellence (CoE) at scale — covering naming standards, certification workflows, performance guidelines, onboarding, and project governance.
 
 Built from operational experience managing enterprise Tableau environments across financial services organizations with 1,000–10,000+ users.
